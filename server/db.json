@@ -1,0 +1,395 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "type": "movie",
+      "title": "Такие разные близнецы",
+      "genre": "Комедия",
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/16d903e2-b84f-4780-bbc1-92876a03a232/1920x",
+      "date": "2011",
+      "description": "В центре сюжета – семейный мужчина по имени Джек, к которому на День Благодарения нагрянула в гости его взбалмошная сестра-близняшка Джилл. И ладно бы погостила да махнула ручкой, так ведь нет: Джилл прочно обосновалась в доме братца и, кажется, в ближайшее время не собирается уезжать.",
+      "cast": [
+        { "id": 1, "actor": "Адам Сэндлер" },
+        { "id": 2, "actor": "Аль Пачино" },
+        { "id": 3, "actor": "Кэти Холмс" },
+        { "id": 4, "actor": "Элоди Тунье" },
+        { "id": 5, "actor": "Роэн Чанд" }
+      ],
+      "director": "Деннис Дуган",
+      "screenshots": [
+        {
+          "id": 1,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/6b982a46-4059-4535-bc04-eb11688c9430/1920x"
+        },
+        {
+          "id": 2,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/f2580807-5f9f-4345-b6b7-330a5017392a/1920x"
+        },
+        {
+          "id": 3,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/b8617b36-dd46-4628-af56-b8e68556b65f/1920x"
+        },
+        {
+          "id": 4,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/2e6061d1-9cab-4f3c-b53b-58878f1f120d/1920x"
+        },
+        {
+          "id": 5,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/419abaee-336a-4104-84d9-06ec4f2fcd62/1920x"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "movie",
+      "title": "Морбиус",
+      "genre": "Фантастика",
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/a955c4e1-59da-4457-a009-182b8114131a/1920x",
+      "date": "2022",
+      "description": "Майкл Морбиус с детства страдает от редкого заболевания крови и всю сознательную жизнь посвятил поискам лекарства. В какой-то момент Майкл видит возможное спасение в крови летучих мышей и решается на рискованный эксперимент. Опыт вызывает неожиданную реакцию — он меняет тело Морбиуса, превращая его в кровожадного монстра.",
+      "cast": [
+        { "id": 1, "actor": "Джаред Лето" },
+        { "id": 2, "actor": "Мэтт Смит" },
+        { "id": 3, "actor": "Адриа Архона" },
+        { "id": 4, "actor": "Джаред Харрис" },
+        { "id": 5, "actor": "Тайриз Гибсон" }
+      ],
+      "director": "Даниэль Эспиноса",
+      "screenshots": [
+        {
+          "id": 1,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/8eefb5b3-30ca-4cf3-8783-4dfd62fc59ec/1920x"
+        },
+        {
+          "id": 2,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/da788069-e37c-4a25-a50f-884377b14281/1920x"
+        },
+        {
+          "id": 3,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/910b834b-d4d1-434f-aa38-bbad03151a95/1920x"
+        },
+        {
+          "id": 4,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/0ebfbeba-8387-40ec-822e-97512d4b6119/1920x"
+        },
+        {
+          "id": 5,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/6c705865-c24a-422c-b237-a9dd24e30be8/1920x"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "movie",
+      "title": "Туман",
+      "genre": "Ужасы",
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/2323a384-e5c6-415d-8e3b-d08897bc0624/1920x",
+      "date": "2005",
+      "description": "Когда-то в очень туманную ночь жители небольшого городка Антонио совершили страшное злодеяние - разграбили и сожгли корабль, перевозивший группу прокаженных. С тех пор прошло почти сто лет, о происшествии давно забыли. Жизнь в портовом городке течет спокойно и безмятежно. Но однажды ночью Антонио внезапно окутывает зловещий густой туман, принесший с собой души призраков, за век не нашедших успокоения и жаждущих мести..",
+      "cast": [
+        { "id": 1, "actor": "Том Уэллинг" },
+        { "id": 2, "actor": "Мэгги Грэйс" },
+        { "id": 3, "actor": "Сэльма Блэр" },
+        { "id": 4, "actor": "ДеРэй Дэвис" },
+        { "id": 5, "actor": "Кеннет Уэлш" }
+      ],
+      "director": "Руперт Уэйнрайт",
+      "screenshots": [
+        {
+          "id": 1,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/bd0a2f36-40b2-44f3-938f-7fc238e65b01/1920x"
+        },
+        {
+          "id": 2,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/34c30dcb-1e69-4e0a-b50b-f25ac50b025a/1920x"
+        },
+        {
+          "id": 3,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/c2bb87c3-c24b-4a15-8626-ec4cc81b223a/1920x"
+        },
+        {
+          "id": 4,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/e1423db5-b36b-4cd6-ac07-fb2596abbe54/1920x"
+        },
+        {
+          "id": 5,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/60b7b0ac-553a-4377-8d06-92880ae645a9/1920x"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "series",
+      "title": "Санта-Барбара",
+      "genre": "Мелодрама",
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/8fbda34f-60d8-44ba-bf5d-7f9380a16321/1920x",
+      "date": "1984",
+      "description": "История крутится вокруг четырёх семей, представляющих разные слои общества калифорнийского городка Санта-Барбара: богатых и преуспевающих Кэпвеллов, их менее удачливых конкурентов Локриджей, немало потерявших в борьбе с лидером, служащих Перкинсов и испаноязычных Андраде.",
+      "cast": [
+        { "id": 1, "actor": "Эй Мартинез" },
+        { "id": 2, "actor": "Марси Уокер" },
+        { "id": 3, "actor": "Нэнси Гран" },
+        { "id": 4, "actor": "Джед Аллан" },
+        { "id": 5, "actor": "Робин Маттсон" }
+      ],
+      "director": "Рик Бенневитц",
+      "screenshots": [
+        {
+          "id": 1,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/5c94b08d-7c7f-4823-892b-27412d8b160a/1920x"
+        },
+        {
+          "id": 2,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/cc1a1e68-3d17-48f5-bc2a-5680819f6074/1920x"
+        },
+        {
+          "id": 3,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/403e47af-d37d-4225-9c45-48f4b7c84291/1920x"
+        },
+        {
+          "id": 4,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/0b217f0c-43ed-4c53-9667-6425f5bb94f7/1920x"
+        },
+        {
+          "id": 5,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/d7ddc7e3-5bbe-4862-8b1e-267e42ee15fe/1920x"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "series",
+      "title": "Клон",
+      "genre": "Мелодрама",
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/983a46e5-a930-413a-9926-c7b412770f25/1920x",
+      "date": "2001",
+      "description": "В семье Феррас происходит трагедия. Погибает любимый сын Леонидаса — Диогу, надежда и опора отца. Эту смерть очень тяжело переживает не один предприниматель, но и брат-близнец Диогу — Лукас, и его крестный — профессор Аугусту Албиери. Доктор Албиери воспринимает смерть крестника, единственного человека на всем белом свете, который еще пробуждал в нем теплые чувства, как вызов. Он, занимавшийся в своей лаборатории клонированием эмбрионов рогатого скота, решает дать Диогу новую жизнь, сделав себя тем самым подобным богу.",
+      "cast": [
+        { "id": 1, "actor": "Мурило Бенисио" },
+        { "id": 2, "actor": "Джованна Антонелли" },
+        { "id": 3, "actor": "Вера Фишер" },
+        { "id": 4, "actor": "Режиналду Фария" },
+        { "id": 5, "actor": "Неуза Боржес" }
+      ],
+      "director": "Тереза Лампрея",
+      "screenshots": [
+        {
+          "id": 1,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/74aed503-8a9b-49bd-b0cb-2e27fc79d282/1920x"
+        },
+        {
+          "id": 2,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/2ee59edb-1550-483a-a1e8-42b27b239a5e/1920x"
+        },
+        {
+          "id": 3,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/ed5ef9d3-a924-4aef-8a5e-48185ba864ec/1920x"
+        },
+        {
+          "id": 4,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/4bd24503-4cf2-42f9-b9c9-3d0436623182/1920x"
+        },
+        {
+          "id": 5,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/9da4ed88-8291-46df-ab35-5f2ec82c7bad/1920x"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "movie",
+      "title": "Повелитель стихий",
+      "genre": "фэнтези",
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/7f53e2cd-8a6e-456f-921d-595b3fdc2720/1920x",
+      "date": "2010",
+      "description": "Воздушные кочевники, Племя Воды, Царство Земли и Народ Огня. Четыре нации были связаны судьбой, когда Народ Огня начал жестокую войну против всех. Прошло сто лет без надежды что-то изменить в этом мире. Народ Огня почти близок к победе в войне. Оказавшись между борьбой и храбростью, юный Аанг понимает, что он - Аватар, обладающий силой повелевать четырьмя стихиями, и то, что только он может вернуть баланс и восстановить мир на земле. Вместе с юной повелительницей воды Катарой и её братом Соккой он отправляется в путешествие.",
+      "cast": [
+        { "id": 1, "actor": "Ноа Рингер" },
+        { "id": 2, "actor": "Дев Патель" },
+        { "id": 3, "actor": "Никола Пельтц Бекхэм" },
+        { "id": 4, "actor": "Джексон Рэтбоун" },
+        { "id": 5, "actor": "Шон Тоуб" }
+      ],
+      "director": "М. Найт Шьямалан",
+      "screenshots": [
+        {
+          "id": 1,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/ec59157a-b584-4ab0-aebd-61ef9c6e27ba/1920x"
+        },
+        {
+          "id": 2,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/eb67ba01-85e3-44ad-8fce-5d426e555d30/1920x"
+        },
+        {
+          "id": 3,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/d3999950-63cd-4dd1-af10-4a9a06160faa/1920x"
+        },
+        {
+          "id": 4,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/dd76e851-192c-42d8-85a4-d9b3c5d13586/1920x"
+        },
+        {
+          "id": 5,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/f23f668f-dc1c-4052-8256-894faaf457fc/1920x"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "movie",
+      "title": "Кошки",
+      "genre": "мюзикл",
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/63752895-1796-4712-8cbc-c019b2046ec3/1920x",
+      "date": "2019",
+      "description": "На ежегодный кошачий бал собираются кошки из племени избранных. Все они разные: породистые и беспородные, юные и старые, домашние любимцы и бездомные. Когда они собираются вместе, каждая кошка рассказывает о себе — чем же она так исключительна, и за что её можно считать избранной, чтобы она получила право отправиться в кошачий рай.",
+      "cast": [
+        { "id": 1, "actor": "Франческа Хэйуорд" },
+        { "id": 2, "actor": "Джуди Денч" },
+        { "id": 3, "actor": "Роберт Фэйрчайлд" },
+        { "id": 4, "actor": "Лори Дэвидсон" },
+        { "id": 5, "actor": "Дженнифер Хадсон" }
+      ],
+      "director": "Том Хупер",
+      "screenshots": [
+        {
+          "id": 1,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/e779d730-5fd8-4226-8a17-69e09e85ee7d/1920x"
+        },
+        {
+          "id": 2,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/bf14422b-88e1-4409-87e5-2f998dd7b7d8/1920x"
+        },
+        {
+          "id": 3,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/4dcb0e9b-8b96-44d6-95f8-10c6f03afc67/1920x"
+        },
+        {
+          "id": 4,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/235b3cd5-9edc-41d3-a237-15542ad2560a/1920x"
+        },
+        {
+          "id": 5,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/a03cb458-c603-4248-88d0-0672a9399c98/1920x"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "movie",
+      "title": "Поле битвы: Земля",
+      "genre": "фантастика",
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/83e228af-6ad6-410a-8c20-81cc5a3685a3/1920x",
+      "date": "2000",
+      "description": "3000 год. Уже десять веков Землей правит жестокая раса пришельцев. Поработив людей, гиганты Сайклосы превратили завоеванную планету в источник сырья для своего далекого мира. Избежавшие смерти и рабства земляне первобытными племенами рассеялись по горам и лесам. Но однажды, получив доступ к оружию и технологиям пришельцев, они поднимают восстание. Начинается новая звездная война, в которой одна из цивилизаций обречена на уничтожение...",
+      "cast": [
+        { "id": 1, "actor": "Джон Траволта" },
+        { "id": 2, "actor": "Барри Пеппер" },
+        { "id": 3, "actor": "Форест Уитакер" },
+        { "id": 4, "actor": "Ким Коутс" },
+        { "id": 5, "actor": "Сабина Карсенти" }
+      ],
+      "director": "Роджер Кристиан",
+      "screenshots": [
+        {
+          "id": 1,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/6802ffe3-acd8-43f8-879a-c8cd07a42ced/1920x"
+        },
+        {
+          "id": 2,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/926f9d6a-1d8d-4393-9a5b-6d169fdc0362/1920x"
+        },
+        {
+          "id": 3,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/1e3c5109-52af-4b71-ac5b-d966d6015b85/1920x"
+        },
+        {
+          "id": 4,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/1ecd3687-d0c7-4b93-a2ba-04cfae7c7a53/1920x"
+        },
+        {
+          "id": 5,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/ed0c56a5-ad79-40d2-9f87-4a47a1d3f093/1920x"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "movie",
+      "title": "Космический джем: Новое поколение",
+      "genre": "фантастика",
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/dc079aaa-f2a7-40ba-b8ae-7ebf46972fb0/1920x",
+      "date": "2021",
+      "description": "Чтобы спасти сына, знаменитый чемпион НБА отправляется в сказочный мир, где в команде мультяшек вынужден сражаться на баскетбольной площадке с цифровыми копиями знаменитых игроков.",
+      "cast": [
+        { "id": 1, "actor": "Леброн Джеймс" },
+        { "id": 2, "actor": "Дон Чидл" },
+        { "id": 3, "actor": "Седрик Джо" },
+        { "id": 4, "actor": "Крис Дэвис" },
+        { "id": 5, "actor": "Сонекуа Мартин-Грин" }
+      ],
+      "director": "Малкольм Д. Ли",
+      "screenshots": [
+        {
+          "id": 1,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/4716873/08bc32c6-c5af-475b-a4fe-d8b9519d3592/1920x"
+        },
+        {
+          "id": 2,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/b23b1976-a719-488d-8bbc-92b7a2302769/1920x"
+        },
+        {
+          "id": 3,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/4c79a115-8bae-4ed2-8d1a-ca55eb7032c2/1920x"
+        },
+        {
+          "id": 4,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/02dcd418-ef64-4370-9eff-ca9485bfd433/1920x"
+        },
+        {
+          "id": 5,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/5a6727a5-12b4-4e15-bc6b-0d98005feaa0/1920x"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "movie",
+      "title": "Фантастическая четверка",
+      "genre": "фантастика",
+      "poster": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/7f3f3347-bdb3-4d8e-b576-b976a9c4ff48/1920x",
+      "date": "2015",
+      "description": "История о четырех молодых астронавтах, которые отважились на авантюрное путешествие в параллельное измерение для исследования аномальной волны космической энергии. Вернувшись из путешествия, они обнаружили у себя суперспособности, которые навсегда изменили их жизни…",
+      "cast": [
+        { "id": 1, "actor": "Майлз Теллер" },
+        { "id": 2, "actor": "Майкл Б. Джордан" },
+        { "id": 3, "actor": "Кейт Мара" },
+        { "id": 4, "actor": "Джейми Белл" },
+        { "id": 5, "actor": "Тоби Кеббелл" }
+      ],
+      "director": "Джош Транк",
+      "screenshots": [
+        {
+          "id": 1,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1629390/8134ae99-0a44-4f38-b25c-adde30f57a88/1920x"
+        },
+        {
+          "id": 2,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/4cf435d4-a711-4a96-9284-bd47d4b76f56/1920x"
+        },
+        {
+          "id": 3,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1777765/7451b3a5-91c0-4b23-8c4f-b7f4cb9081af/1920x"
+        },
+        {
+          "id": 4,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/be02c33d-7b6e-48da-95bf-32a5fa1dd232/1920x"
+        },
+        {
+          "id": 5,
+          "screen": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/7a0cfca9-10f0-40e3-8bf4-a2d530dcbe6e/1920x"
+        }
+      ]
+    }
+    
+  ]
+}
